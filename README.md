@@ -56,12 +56,6 @@ Coffee-Cafe/
 ├── index.html    # Page structure and content
 ├── styles.css    # All styling, including dark mode and responsive rules
 ├── script.js     # Interactivity (toggles, order total, filters, form logic)
+├── cafe.jpeg     # Welcome-section photo
 └── README.md     # You are here
 ```
-
----
-
-## 📝 Notes
-
-- The homepage references an image named `cafe.jpeg`. Add an image with that exact
-  name to the project root so the welcome section displays correctly.
